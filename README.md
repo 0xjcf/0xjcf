@@ -52,8 +52,4 @@ Preferred: **Remote**, **Consulting**, **Full-time**
 
 🌐 **Website**: [www.0xjcf.com](https://www.0xjcf.com)  
 📧 **Email**: jflores717@gmail.com  
-💼 **LinkedIn**: [linkedin.com/in/0xjcf](https://linkedin.com/in/0xjcf)  
-
----
-
-_Building systems that scale, APIs that delight, and communities that thrive._
+💼 **LinkedIn**: [linkedin.com/in/0xjcf](https://linkedin.com/in/joseflores-io)  
