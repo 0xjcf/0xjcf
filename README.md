@@ -1,55 +1,42 @@
-# Hi, I'm José – Senior Full-Stack Engineer & Open Source Creator 👋
+# Hi, I'm José 👋
 
-🔥 **Creator of [ignite-element](https://github.com/0xjcf/ignite-element)** – a production-grade web component framework enabling seamless integration with Redux, MobX, XState, and custom state management solutions.
+**Senior Software Engineer (Front-End & Full-Stack)** · TypeScript · React · Web Components · XState · Node.js
+8+ years building production web apps, 7 of them at Availity. Sarasota, FL · open to remote or hybrid roles.
 
-💡 **Building the future of state-driven architecture** with [actor-web](https://github.com/0xjcf/actor-web) – a resilient, event-driven system inspired by Erlang/OTP's actor model.
+I care about software that can still be understood, changed, and trusted a year after it ships. Most of my work sits where state management meets application architecture: state machines and statecharts, the actor model, and hexagonal (ports-and-adapters) design.
 
-## 🚀 What I Do
-
-- **Architect & Build Scalable Systems**: 7+ years designing enterprise web applications, multi-tenant SaaS platforms, and developer-first libraries
-- **State Management Expert**: Deep expertise in XState, Redux, MobX, and actor-model patterns for complex UI/business logic
-- **Full-Stack Development**: React.js, TypeScript, Node.js, PostgreSQL, Supabase, serverless architectures
-- **Developer Experience Champion**: Obsessed with API design, documentation, and tooling that makes developers productive
-- **Technical Writing & Mentorship**: Sharing insights through article series on architecture patterns, state machines, and modern web development
-
-## 🛠️ Core Technologies & Skills
-
-**Frontend**: React.js • TypeScript • Web Components • XState • Redux • MobX • SolidJS • Preact  
-**Backend**: Node.js • PostgreSQL • Supabase • Serverless • REST APIs  
-**Testing**: Jest • Vitest • Playwright • Testing Library  
-**DevOps**: GitHub Actions • CI/CD • Docker • Zerops  
-**Architecture**: State Machines • Actor Model • Event-Driven Systems • Micro-frontends
-
-## 🏆 Featured Projects
+## 🔥 What I'm building
 
 ### [ignite-element](https://github.com/0xjcf/ignite-element)
-Production-ready web component framework with first-class state management integration. Built for teams that need the flexibility of web components without sacrificing modern state handling.
+An open-source TypeScript library for building UIs as web components driven by headless state cores, with XState, Redux, and MobX adapters.
+**v3 (in beta)** brings:
+- a custom JSX renderer with keyed diffing and a ref lifecycle
+- React bindings (`igniteReact`, `useIgnite`) so the same core drives a React app or a plain custom element
+- an accessibility-first component catalog, in development, designed to work across web, CLI, and MCP
+- dev/prod export-condition builds and per-entry bundle-size budgets enforced in CI
 
-### [actor-web](https://github.com/0xjcf/actor-web)
-Bringing Erlang/OTP's reliability patterns to JavaScript/TypeScript. Location-transparent actors, supervision trees, and resilient distributed systems for the web.
+On the roadmap for v3 stable: imperative hosts (canvas, audio, three.js), SSR with declarative shadow DOM, and agent-ready tooling so AI agents can drive an app through the same typed commands as its UI (WebMCP).
 
-### [lit-bit](https://github.com/0xjcf/lit-bit)
-XState-inspired statecharts that run everywhere – from microcontrollers to cloud servers. Reactive, testable, and portable.
+### Booster Budget (in progress, demo planned Nov 2026)
+A personal-finance app that answers one question: *"Am I okay until payday?"* Built on ignite-element v3 with a pure TypeScript domain behind ports and adapters. The LLM generates at the edge while a typed decision model keeps inputs and outputs deterministic, and AI features stay off until the user opts in.
 
-## 📝 Writing & Community
+### How I build
+I work with a team of AI coding agents behind review gates: every change is specified, reviewed, and checked against tests, accessibility, and bundle budgets before it lands.
 
-✍️ Running the **Actor Web newsletter** – exploring modern architecture patterns, state management, and developer experience  
-🎯 Active contributor and maintainer in the open-source ecosystem  
-🗣️ Available for technical consulting, architecture reviews, and speaking opportunities
+## 🛠️ Tech
 
-## 💼 Open to Opportunities
+**Front-end:** TypeScript · React · Web Components · XState · Redux · MobX · SolidJS · HTML/CSS · Accessibility (WCAG)
+**Back-end & data:** Node.js · Java (Quarkus) · PostgreSQL · Supabase · REST · GraphQL
+**Testing & CI:** Vitest · Jest · Testing Library · Playwright · GitHub Actions
+**AI:** LLM integration · typed/structured outputs · AI-assisted development workflows
 
-I'm interested in roles where I can:
-- Lead architectural decisions and technical strategy
-- Build developer tools and libraries that have real impact
-- Work with distributed systems and state management at scale
-- Mentor teams and elevate engineering culture
-- Contribute to open-source as part of the role
+## 🧪 Other projects
+- [actor-web](https://github.com/0xjcf/actor-web): actor-model runtime for TypeScript inspired by Erlang/OTP (supervision, location-transparent actors)
+- [lit-bit](https://github.com/0xjcf/lit-bit): XState-inspired statecharts designed to run from microcontrollers to servers
+- [pine-script-syntax](https://github.com/0xjcf/pine-script-syntax): VS Code extension for Pine Script syntax highlighting
 
-Preferred: **Remote**, **Consulting**, **Full-time**
+## ✍️ Writing
+[Actor Web](https://www.linkedin.com/newsletters/actor-web-7370906668483747840/), my LinkedIn newsletter on statecharts, actors, and systems design.
 
-## 📫 Let's Connect
-
-🌐 **Website**: [www.0xjcf.com](https://www.0xjcf.com)  
-📧 **Email**: jflores717@gmail.com  
-💼 **LinkedIn**: [linkedin.com/in/0xjcf](https://linkedin.com/in/joseflores-io)  
+## 📫 Connect
+🌐 [0xjcf.com](https://www.0xjcf.com) · 💼 [LinkedIn](https://www.linkedin.com/in/joseflores-io/) · 📧 jflores717@gmail.com
