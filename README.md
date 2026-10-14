@@ -1,6 +1,6 @@
 # Hi, I'm José 👋
 
-**Senior Software Engineer (Front-End & Full-Stack)** · TypeScript · React · Web Components · XState · Node.js
+**Senior Software Engineer** · TypeScript · React · Web Components · XState · Node.js
 8+ years building production web apps, 7 of them at Availity. Sarasota, FL · open to remote or hybrid roles.
 
 I care about software that can still be understood, changed, and trusted a year after it ships. Most of my work sits where state management meets application architecture: state machines and statecharts, the actor model, and hexagonal (ports-and-adapters) design.
